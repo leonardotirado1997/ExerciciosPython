@@ -28,7 +28,7 @@ while soma <= limite:
     if soma > limite and k > 0:
         print("-" * 50)
         print(f"✓ Soma EXCEDEU {limite}!")
-
+ 
 print("-" * 50)
 print(f"\nRESULTADO FINAL:")
 print(f"Número de termos necessários: {k}")
